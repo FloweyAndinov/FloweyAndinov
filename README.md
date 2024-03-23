@@ -28,7 +28,17 @@
 [![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi)](https://skillicons.dev)
 
 
-## My personal best projects:
-* [BG WordBomb](https://github.com/FloweyAndinov/Bulgarian-WordBomb)
-* [BG Wordle](https://github.com/FloweyAndinov/Bulgarian-Wordle)
-* [Notes](https://github.com/FloweyAndinov/Notes-app)
+
+<style>
+  .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+</style>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<div class="center">
+<h1>Check out my pinned projects/repos</h1>
+</div>
