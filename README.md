@@ -37,7 +37,7 @@
     <h1>Check out my pinned projects/repos</h1>
 </div>
 
-<style>
+<style type="text/css">
 .centered {
     display: flex;
     justify-content: center;
