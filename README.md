@@ -8,7 +8,7 @@
 #### A self-thought passionate developer
 #### 🌊 *At present living in* Burgas 🕊️
 
-#### Well-rounded programmer with interest in front-end 
+#### Well-rounded programmer with interest in web development
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> Skills:
 
@@ -33,4 +33,4 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h1 align="center">Check out my pinned projects/repos</h1>
+<h1 align="center">Check out my pinned repos</h1>
