@@ -24,8 +24,8 @@
 
 
 
-### Other OS-es:
-[![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi)](https://skillicons.dev)
+### OS-es i am familiar with:
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,raspberrypi)](https://skillicons.dev)
 
 
 
